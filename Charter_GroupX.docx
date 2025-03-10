@@ -3,6 +3,10 @@ Group Members Names: Joshua Thaisananikone, Taslima Akter, Darrelle Lamar Simont
 1.	Availability for meeting expectations
 2.	Response time to communication expectations
 3.	Definition of done: when is a task complete? (hint: "I'm done with that but I didn't check it in to github" is not done.)
+A task is consider "Done" only when:
+  1. The documentation/code is fully implemented and tested.
+  2. It is commited and pushed to GitHub.
+  3. It has been reviewed and approved by at least one team member.
 4.	Scrum meeting format/frequency and distribution of documentation tasks (meeting minutes, updating task board)
 5.	Procedure for adopting policies (e.g. code style, code check-in steps, documentation updates)
 6.	if you adopt such a policy during the initial meeting, put it here
