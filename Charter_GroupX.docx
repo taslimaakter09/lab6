@@ -7,9 +7,16 @@ A task is consider "Done" only when:
   1. The documentation/code is fully implemented and tested.
   2. It is commited and pushed to GitHub.
   3. It has been reviewed and approved by at least one team member.
+
 4.	Scrum meeting format/frequency and distribution of documentation tasks (meeting minutes, updating task board)
 5.	Procedure for adopting policies (e.g. code style, code check-in steps, documentation updates)
 6.	if you adopt such a policy during the initial meeting, put it here
 7.	Procedure for handling a member who is not meeting expectations
+If a team member is not fulfilling their responsibilities, the following steps will be taken:
+	1.	Step 1: Private Discussion – A teammate will talk to the member to understand any difficulties.
+	2.	Step 2: Group Discussion – The team will meet to address concerns and offer solutions.
+	3.	Step 3: Written Warning – If the issue continues, a written agreement will be made with clear expectations.
+	4.	Step 4: Instructor Involvement – If no improvement occurs, the issue will be escalated to the instructor.
+
 8.	must include at least 3 actions before involving the instructor
 9.	Signatures: each member must sign their name by typing their name at the bottom of the document.
